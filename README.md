@@ -18,6 +18,16 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I moved to China to pursue my undergraduate degree not knowing any Mandarin!
 
+## ⭐️ Technologies I like
+<p align="left">
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/go_gopher.svg" alt="golang" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/nodejs_alt.svg" alt="nodejs" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/typescript.svg" alt="typescript" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/python.svg" alt="python" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/docker.svg" alt="docker" width="25" height="25" />
+  <img src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1613085330~hmac=21c58d467387a8c79625477fcc5730ae" alt="docker" width="25" height="25" />
+
+  
 ## 📌 Contact
 Feel free to contact me about anything I can help or collaborate on projects!<br>
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinorellana)
